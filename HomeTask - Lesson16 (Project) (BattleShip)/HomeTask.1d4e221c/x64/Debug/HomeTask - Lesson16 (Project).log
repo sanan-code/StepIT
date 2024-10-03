@@ -1,6 +1,0 @@
-﻿  Source.cpp
-D:\Step IT\C++\Home Works\HomeTask - Lesson16 (Project)\Source.cpp(42,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-D:\Step IT\C++\Home Works\HomeTask - Lesson16 (Project)\Common.h(58,1): warning C4715: 'GetIntNum_from_ColumnLetters': not all control paths return a value
-D:\Step IT\C++\Home Works\HomeTask - Lesson16 (Project)\Common.h(96,1): warning C4715: 'GetLetter_from_IntNum': not all control paths return a value
-D:\Step IT\C++\Home Works\HomeTask - Lesson16 (Project)\StartGame.h(33,1): warning C4172: returning address of local variable or temporary : players
-  HomeTask - Lesson16 (Project).vcxproj -> D:\Step IT\C++\Home Works\HomeTask - Lesson16 (Project)\x64\Debug\HomeTask - Lesson16 (Project).exe
